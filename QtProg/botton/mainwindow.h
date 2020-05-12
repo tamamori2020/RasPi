@@ -20,6 +20,8 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+private:
+    bool onoff;
 };
 
 #endif // MAINWINDOW_H
